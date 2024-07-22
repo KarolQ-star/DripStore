@@ -1,0 +1,40 @@
+.Duvidoso {
+display: flex;
+width: 100%;
+justify-content: space-around;
+
+}
+
+.Imagem1 {
+width: 220px;
+
+}
+.pesquisa {
+border-radius: 8px;
+border: none;
+background-color:#ebebeb;
+width:530px;
+padding: 14px;
+
+}
+
+.Links {
+display: flex;
+width: 300px;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.link1 {
+    color: #474747;
+}
+
+.link2 {
+    color: #fff;
+    text-decoration: none;
+    background-color: #C92071;
+    border-radius: 8px;
+    padding: 10px 35px;
+    
+}
